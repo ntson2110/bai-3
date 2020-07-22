@@ -1,0 +1,19 @@
+<resources>
+    <string name="quoc_tich">Spinner Example</string>
+    <string name="app_name">formdangki</string>
+    <string name="hovaten">Họ Và Tên</string>
+    <string name="sodienthoai">Số Điện Thoại</string>
+    <string name="gioitinh">Giới Tính</string>
+    <string name="nam">Nam</string>
+    <string name="nu">Nữ</string>
+    <string name="quoctich">Quốc Tịch</string>
+    <string name="chuthich">Chú Thích</string>
+    <string name="chuy">Chú Thích</string>
+    <string name="dangki">Đăng Kí</string>
+    <string name="huy">Hủy</string>
+    <string-array name="text">
+        <item>Việt Nam</item>
+        <item>Mỹ</item>
+        <item>Canada</item>
+    </string-array>
+</resources>
